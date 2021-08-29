@@ -1,1 +1,1 @@
-# sj_21_22_pos_5x
+# Resources for POS 2021/22 5x
