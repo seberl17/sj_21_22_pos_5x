@@ -17,7 +17,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 22.11.2021 |         |       |
 | 29.11.2021 |         |       |
 | 06.12.2021 | *blocked* | *1. PLF* |
-| 13.12.2021 | Jonas Heschl | Homo Deus - Youval Noah Harari |
+| 13.12.2021 |         |       |
 | 20.12.2021 |         |       |
 | 10.01.2022 |         |       |
 | 17.01.2022 |         |       |
