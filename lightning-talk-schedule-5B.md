@@ -11,6 +11,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | Date       | Student | Topic |
 | ---------- | ------- | ----- |
 | 17.09.2020 |         |       |
+| 16.12.2020 | Jonas Heschl | Homo Deus - Youval Noah Harari |
 
 ## SS 2022
 
