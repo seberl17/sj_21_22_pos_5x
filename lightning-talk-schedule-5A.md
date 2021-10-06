@@ -10,7 +10,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 
 | Date       | Student | Topic |
 | ---------- | ------- | ----- |
-| 17.09.2020 |         |       |
+| 17.01.2022 | Fabian Graml | What is [_test automation_](https://en.wikipedia.org/wiki/Test_automation) and how can it be done for many different mobile platforms and devices (e.g. [_Sauce Labs_](https://saucelabs.com/))? |
 
 ## SS 2022
 
