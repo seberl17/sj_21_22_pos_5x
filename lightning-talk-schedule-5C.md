@@ -18,7 +18,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 24.11.2021 |         |       |
 | 01.12.2021 | *blocked* | *1. PLF* |
 | 15.12.2021 |         |       |
-| 22.12.2021 |         |       |
+| 22.12.2021 | Daniel Wimmer | Markdown (7.i) |
 | 12.01.2022 |         |       |
 | 19.01.2022 |         |       |
 | 26.01.2022 |         |       |
