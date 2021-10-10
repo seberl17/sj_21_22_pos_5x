@@ -91,7 +91,7 @@ public class Blog
 * Don't forget to *copy the file to output directory* if you build a console app. In ASP.NET Core, this is done automatically.
   ![Copy to output directory](CopyToOutputDir.png)
   
-* Consider using *Microsoft.Extensions.Configuraiton.Json* NuGet package in console apps or libraries
+* Consider using *Microsoft.Extensions.Configuraiton.Json* and *System.Configuration.ConfigurationManager* NuGet packages in console apps or libraries
 
 * Read connection string in ASP.NET Core's startup class:
 
