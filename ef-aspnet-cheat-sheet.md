@@ -144,7 +144,7 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
-* Add DbContext factory in case of console apps:
+* Add DbContext factory in case of console apps or libraries:
 
 ```cs
 class BloggingContextFactory : IDesignTimeDbContextFactory<BloggingContext>
