@@ -13,7 +13,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 11.10.2021 |         |       |
 | 18.10.2021 |         |       |
 | 08.11.2021 |         |       |
-| 15.11.2021 |         |       |
+| 15.11.2021 |Lorenz Kassewalder|What is GraphQL and why is it important for developing distributed applications?|
 | 22.11.2021 |         |       |
 | 29.11.2021 |         |       |
 | 06.12.2021 | *blocked* | *1. PLF* |
