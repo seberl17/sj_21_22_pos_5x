@@ -21,7 +21,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 15.12.2021 | Sandro Kierner | Serverless Computing |
 | 22.12.2021 | Daniel Wimmer | Markdown (7.i) |
 | 22.12.2021 | Julian Rossgatterer | Cool IoT devices every developer should know about |
-| 12.01.2022 |         |       |
+| 12.01.2022 | Pepe Fröhler | What is test automation and how can it be done for many different mobile platforms and devices (e.g. Sauce Labs)? |
 | 19.01.2022 |         |       |
 | 26.01.2022 |         |       |
 | 02.02.2022 |         |       |
