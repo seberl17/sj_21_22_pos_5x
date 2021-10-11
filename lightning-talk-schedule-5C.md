@@ -12,6 +12,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | ---------- | ------- | ----- |
 | 13.10.2021 |         |       |
 | 20.10.2021 |         |       |
+| 03.11.2021 |Wiesinger|  MQTT |
 | 03.11.2021 | Emilio Miniberger | Material Design |
 | 10.11.2021 |         |       |
 | 17.11.2021 |         |       |
