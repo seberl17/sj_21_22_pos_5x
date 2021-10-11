@@ -23,7 +23,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 22.12.2021 | Julian Rossgatterer | Cool IoT devices every developer should know about |
 | 12.01.2022 | Pepe Fröhler | What is test automation and how can it be done for many different mobile platforms and devices (e.g. Sauce Labs)? |
 | 19.01.2022 | David Gruber | Subreddits that every developer should follow |
-| 26.01.2022 |         |       |
+| 26.01.2022 | Leon Sterner | GraphQL (5.XI) |
 | 02.02.2022 |         |       |
 | 09.02.2022 | *blocked* | *2. PLF* |
 | 16.02.2022 |         |       |
