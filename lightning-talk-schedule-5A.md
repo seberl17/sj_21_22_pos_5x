@@ -22,7 +22,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 10.01.2022 |         |       |
 | 17.01.2022 |Schwaiger| What are SonarQube and SonarLint?|
 | 17.01.2022 | Fabian Graml  |  What is [_test automation_](https://en.wikipedia.org/wiki/Test_automation) and how can it be done for many different mobile platforms and devices (e.g. [_Sauce Labs_](https://saucelabs.com/))?     |
-| 24.01.2022 |         |       |
+| 24.01.2022 | Daniel Eizenberger | [Subreddits](https://www.reddit.com/reddits/) that every developer should follow |
 | 31.01.2022 |         |       |
 | 07.02.2022 | *blocked* | *2. PLF* |
 | 14.02.2022 |         |       |
