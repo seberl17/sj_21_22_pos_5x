@@ -19,6 +19,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 24.11.2021 |         |       |
 | 01.12.2021 | *blocked* | *1. PLF* |
 | 15.12.2021 | Sandro Kierner | Serverless Computing |
+| 15.12.2021 | Marcus Tomandl | What is Serverless Computing and how is it different from traditional Web Hosting |
 | 22.12.2021 | Daniel Wimmer | Markdown (7.i) |
 | 22.12.2021 | Julian Rossgatterer | Cool IoT devices every developer should know about |
 | 12.01.2022 | Pepe Fröhler | What is test automation and how can it be done for many different mobile platforms and devices (e.g. Sauce Labs)? |
