@@ -14,7 +14,8 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 21.10.2021 |         |       |
 | 04.11.2021 |         |       |
 | 11.11.2021 |         |       |
-| 18.11.2021 |         |       |
+| 18.11.2021 | Adrian Brunninger | Flutter |
+| 18.11.2021 | Benjamin Heissenberger | Firebase |
 | 25.11.2021 |         |       |
 | 02.12.2021 | *blocked* | *1. PLF* |
 | 09.12.2021 | Florian Treiblmayr | What is the Ethereum Project and why could it be important for us developers in the future |
