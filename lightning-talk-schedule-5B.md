@@ -17,12 +17,13 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 18.11.2021 |         |       |
 | 25.11.2021 |         |       |
 | 02.12.2021 | *blocked* | *1. PLF* |
-| 09.12.2021 |         |       |
+| 09.12.2021 | Florian Treiblmayr | What is the Ethereum Project and why could it be important for us developers in the future |
 | 16.12.2020 | Jonas Heschl | Homo Deus - Youval Noah Harari |
-| 13.01.2022 | Frederic Jagdt | [Supabase](https://supabase.io/) |
+| 13.01.2022 | Niklas Gruber        |    Off to Be the Wizard (Magic 2.0, Band 1)    |
+| 13.01.2022 | Andreas Sturm | Github Co-Pilot |
 | 20.01.2022 | Emil Eichsteininger | What are records in C# and why are they useful? |
-| 27.01.2022 |         |       |
-| 03.02.2022 |         |       |
+| 27.01.2022 | Philipp Angerschmid | The Martian by Andy Weir |
+| 03.02.2022 | Frederic Jagdt | [Supabase](https://supabase.io/) |
 | 10.02.2022 | *blocked* | *2. PLF* |
 | 17.02.2022 |         |       |
 
@@ -30,7 +31,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 
 | Date       | Student | Topic |
 | ---------- | ------- | ----- |
-| 03.03.2022 |         |       |
+| 03.03.2022 |  Konstantin Makor | TED Talks - Chris Anderson  |
 | 10.03.2022 |         |       |
 | 17.03.2022 |         |       |
 | 24.03.2022 |         |       |
