@@ -31,7 +31,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 
 | Date       | Student | Topic |
 | ---------- | ------- | ----- |
-| 03.03.2022 |         |       |
+| 03.03.2022 |  Konstantin Makor | TED Talks - Chris Anderson  |
 | 10.03.2022 |         |       |
 | 17.03.2022 |         |       |
 | 24.03.2022 |         |       |
