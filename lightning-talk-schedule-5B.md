@@ -26,7 +26,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 27.01.2022 | Philipp Angerschmid | The Martian by Andy Weir |
 | 03.02.2022 | Frederic Jagdt | [Supabase](https://supabase.io/) |
 | 10.02.2022 | *blocked* | *2. PLF* |
-| 17.02.2022 |         |       |
+| 17.02.2022 | Matthias Schneglberger | What is Serverless Computing and how is it different from traditional Web Hosting? |
 
 ## SS 2022
 
