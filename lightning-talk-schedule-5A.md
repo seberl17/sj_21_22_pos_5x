@@ -14,9 +14,10 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 18.10.2021 | Jakob Schlager | Event Sourcing |
 | 18.10.2021 | Fuehrer | Open-Source Software Licenses |
 | 08.11.2021 |         |       |
-| 15.11.2021 |Lorenz Kassewalder|What is GraphQL and why is it important for developing distributed applications?|
+| 15.11.2021 |         |       |
 | 22.11.2021 |         |       |
 | 29.11.2021 | David Lienbacher | What is the Ethereum Project and why could it be important for us developers in the future |
+| 29.11.2021 | Lorenz Kassewalder | What is GraphQL and why is it important for developing distributed applications? |
 | 06.12.2021 | *blocked* | *1. PLF* |
 | 13.12.2021 |         |       |
 | 20.12.2021 |         |       |
