@@ -17,7 +17,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 10.11.2021 |         |       |
 | 17.11.2021 | Philipp Niemetz | Firebase |
 | 24.11.2021 |         |       |
-| 01.12.2021 | *blocked* | *1. PLF* |
+| 01.12.2021 | Sebastian Lindinger | What is new in C# 10 |
 | 15.12.2021 | Sandro Kierner | Serverless Computing |
 | 15.12.2021 | Marcus Tomandl | What is Serverless Computing and how is it different from traditional Web Hosting |
 | 22.12.2021 | Daniel Wimmer | Markdown (7.i) |
