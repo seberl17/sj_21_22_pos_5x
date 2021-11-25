@@ -34,7 +34,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | ---------- | ------- | ----- |
 | 03.03.2022 |  Konstantin Makor | TED Talks - Chris Anderson  |
 | 10.03.2022 | Stieger Stephan | What are the OWASP Top 10 and why are they important for web development? |
-| 17.03.2022 |         |       |
+| 17.03.2022 | Martin Lechner | What is Azure and why is it important for mobile developers? |
 | 24.03.2022 |         |       |
 | 31.03.2022 |         |       |
 | 07.04.2022 | *blocked* | *3. PLF* |
