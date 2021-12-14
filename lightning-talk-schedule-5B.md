@@ -19,10 +19,11 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 25.11.2021 |         |       |
 | 02.12.2021 | *blocked* | *1. PLF* |
 | 09.12.2021 | Florian Treiblmayr | What is the Ethereum Project and why could it be important for us developers in the future |
-| 16.12.2020 | Jonas Heschl | Homo Deus - Youval Noah Harari |
+| 16.12.2021 |         |       |
 | 13.01.2022 | Niklas Gruber        |    Off to Be the Wizard (Magic 2.0, Band 1)    |
 | 13.01.2022 | Andreas Sturm | Github Co-Pilot |
 | 20.01.2022 | Emil Eichsteininger | What are records in C# and why are they useful? |
+| 20.01.2022 | Jonas Heschl | Homo Deus - Youval Noah Harari |
 | 27.01.2022 | Philipp Angerschmid | The Martian by Andy Weir |
 | 03.02.2022 | Frederic Jagdt | [Supabase](https://supabase.io/) |
 | 10.02.2022 | *blocked* | *2. PLF* |
