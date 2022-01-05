@@ -32,7 +32,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 
 | Date       | Student | Topic |
 | ---------- | ------- | ----- |
-| 02.03.2022 |         |       |
+| 02.03.2022 | Jonathan Vormayr | Angular Dabugging |
 | 09.03.2022 |         |       |
 | 16.03.2022 |         |       |
 | 23.03.2022 |         |       |
