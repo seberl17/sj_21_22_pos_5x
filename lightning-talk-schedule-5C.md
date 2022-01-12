@@ -25,6 +25,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 26.01.2022 | Pepe Fröhler | What is test automation and how can it be done for many different mobile platforms and devices (e.g. Sauce Labs)? |
 | 26.01.2022 | Julian Rossgatterer | Cool IoT devices every developer should know about |
 | 02.02.2022 | Markus Ortner| Event Sourcing |
+| 02.02.2022 | Johannes Huemer | RabbitMQ |
 | 09.02.2022 | *blocked* | *2. PLF* |
 | 16.02.2022 | Tobias Hansbauer | Postman |
 
