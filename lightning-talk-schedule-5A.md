@@ -23,9 +23,9 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 10.01.2022 | Christoph Jobst | What are the OWASP Top 10 and why are they important for web development? |
 | 17.12.2021 | *blocked* | *1st PLF* |
 | 24.01.2022 |Schwaiger| What are SonarQube and SonarLint?|
-| 31.01.2022 | Fabian Graml  |  What is [_test automation_](https://en.wikipedia.org/wiki/Test_automation) and how can it be done for many different mobile platforms and devices (e.g. [_Sauce Labs_](https://saucelabs.com/))?     |
 | 24.01.2022 | Daniel Eizenberger | What is [Kotlin](https://kotlinlang.org/) and why is it important for mobile developers? |
 | 31.01.2022 | Vanessa Kaiser | What is the StackOverflow Survey and what can you learn from it? |
+| 31.01.2022 | Fabian Graml  |  What is [_test automation_](https://en.wikipedia.org/wiki/Test_automation) and how can it be done for many different mobile platforms and devices (e.g. [_Sauce Labs_](https://saucelabs.com/))?     |
 | 31.01.2022 |         |       |
 | 07.02.2022 | *blocked* | *2nd PLF* |
 | 14.02.2022 |         |       |
