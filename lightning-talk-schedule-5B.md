@@ -38,7 +38,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 10.03.2022 | *blocked* | *2. PLF* |
 | 17.03.2022 | Stieger Stephan | What are the OWASP Top 10 and why are they important for web development? |
 | 17.03.2022 | Martin Lechner | What is Azure and why is it important for mobile developers? |
-| 24.03.2022 |         |       |
+| 24.03.2022 | Wagneder Lukas | Ghost in the Wires by Kevin Mitnick |
 | 31.03.2022 |         |       |
 | 07.04.2022 | *blocked* | *3. PLF* |
 | 21.04.2022 |         |       |
