@@ -23,11 +23,10 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 13.01.2022 | Niklas Gruber        |    Off to Be the Wizard (Magic 2.0, Band 1)    |
 | 13.01.2022 | Andreas Sturm | Github Co-Pilot |
 | 20.01.2022 | *blocked* | *1. PLF* |
-| 27.01.2022 | Emil Eichsteininger | What are records in C# and why are they useful? |
-| 27.01.2022 | Jonas Heschl | Homo Deus - Youval Noah Harari |
-| 03.02.2022 | Philipp Angerschmid | The Martian by Andy Weir |
-| 03.02.2022 | Frederic Jagdt | [Supabase](https://supabase.io/) |
-| 10.02.2022 |          |      |
+| 03.02.2022 | Emil Eichsteininger | What are records in C# and why are they useful? |
+| 03.02.2022 | Jonas Heschl | Homo Deus - Youval Noah Harari |
+| 10.02.2022 | Philipp Angerschmid | The Martian by Andy Weir |
+| 10.02.2022 | Frederic Jagdt | [Supabase](https://supabase.io/) |
 | 17.02.2022 | Matthias Schneglberger | What is Serverless Computing and how is it different from traditional Web Hosting? |
 
 ## SS 2022
