@@ -27,6 +27,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 02.02.2022 | Sandro Kierner | Serverless Computing |
 | 02.02.2022 | Pepe Fröhler | What is test automation and how can it be done for many different mobile platforms and devices (e.g. Sauce Labs)? |
 | 09.02.2022 | Moritz Maier | Subreddits that every developer should follow |
+| 09.02.2022 | Julian Mair | Angular Animations |
 | 16.02.2022 | Tobias Hansbauer | Postman |
 
 ## SS 2022
