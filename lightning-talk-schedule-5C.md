@@ -22,10 +22,10 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 12.01.2022 | Marcus Tomandl | What are the OWASP Top 10 and why are they important for web development? |
 | 26.01.2022 | Leon Sterner | GraphQL (5.XI) |
 | 26.01.2022 | Julian Rossgatterer | Cool IoT devices every developer should know about |
-| 02.02.2022 | Markus Ortner| Event Sourcing |
-| 02.02.2022 | Johannes Huemer | RabbitMQ |
 | 02.02.2022 | Sandro Kierner | Serverless Computing |
-| 02.02.2022 | Pepe Fröhler | What is test automation and how can it be done for many different mobile platforms and devices (e.g. Sauce Labs)? |
+| 02.02.2022 | Pepe Fröhler | war nicht vorbereitet; What is test automation and how can it be done for many different mobile platforms and devices (e.g. Sauce Labs)? |
+| 09.02.2022 | Markus Ortner| Event Sourcing |
+| 09.02.2022 | Johannes Huemer | RabbitMQ |
 | 09.02.2022 | Moritz Maier | Subreddits that every developer should follow |
 | 16.02.2022 | Tobias Hansbauer | Postman |
 
