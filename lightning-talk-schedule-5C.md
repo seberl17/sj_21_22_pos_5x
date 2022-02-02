@@ -27,6 +27,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 09.02.2022 | Markus Ortner| Event Sourcing |
 | 09.02.2022 | Johannes Huemer | RabbitMQ |
 | 09.02.2022 | Moritz Maier | Subreddits that every developer should follow |
+| 09.02.2022 | Julian Mair | Angular Animations |
 | 16.02.2022 | Tobias Hansbauer | Postman |
 
 ## SS 2022
