@@ -40,4 +40,4 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 24.03.2022 | Wagneder Lukas | Ghost in the Wires by Kevin Mitnick |
 | 31.03.2022 | Jakob Jodlbauer | [We Are The Nerds](https://www.amazon.com/Are-Nerds-Tumultuous-Internets-Laboratory-ebook/dp/B079L5FTJD) |
 | 07.04.2022 | *blocked* | *3. PLF* |
-| 21.04.2022 |         |       |
+| 21.04.2022 | Fabian Hainzinger | Stripe |
