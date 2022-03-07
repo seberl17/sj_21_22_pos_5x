@@ -27,7 +27,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 31.01.2022 | Vanessa Kaiser | What is the StackOverflow Survey and what can you learn from it? |
 | 31.01.2022 | Fabian Graml  |  What is [_test automation_](https://en.wikipedia.org/wiki/Test_automation) and how can it be done for many different mobile platforms and devices (e.g. [_Sauce Labs_](https://saucelabs.com/))?     |
 | 31.01.2022 |         |       |
-| 07.02.2022 | *blocked* | *2nd PLF* |
+| 07.02.2022 |         |       |
 | 14.02.2022 |         |       |
 
 ## SS 2022
@@ -39,5 +39,5 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 14.03.2022 | Efsun Özgen | What is Material Design for Android? |
 | 14.03.2022 | Vasilije Maglov | Cool IoT devices every developer should know about |
 | 21.03.2022 | Florian Auer | What is Markdown, why is it useful, and what cool things can you do with it? |
-| 28.03.2022 | Daniel Lehner | Subreddits that every developer should follow |
-| 04.04.2022 | *blocked* | *3. PLF* |
+| 21.03.2022 | Daniel Lehner | Subreddits that every developer should follow |
+| 28.03.2022 | *blocked* | *3. PLF* |
