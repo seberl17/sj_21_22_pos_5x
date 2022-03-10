@@ -33,11 +33,12 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 
 | Date       | Student | Topic |
 | ---------- | ------- | ----- |
-| 03.03.2022 |  Konstantin Makor | TED Talks - Chris Anderson  |
+|            |         |       |
 | 10.03.2022 |         |       |
 | 17.03.2022 | Stieger Stephan | What are the OWASP Top 10 and why are they important for web development? |
 | 17.03.2022 | Martin Lechner | What is Azure and why is it important for mobile developers? |
 | 24.03.2022 | Wagneder Lukas | Ghost in the Wires by Kevin Mitnick |
 | 24.03.2022 | Jakob Jodlbauer | [We Are The Nerds](https://www.amazon.com/Are-Nerds-Tumultuous-Internets-Laboratory-ebook/dp/B079L5FTJD) |
+| 24.03.2022 |  Konstantin Makor | TED Talks - Chris Anderson  |
 | 31.03.2022 | *blocked* | *2. PLF* |
 | 07.04.2022 | Fabian Hainzinger | Stripe |
