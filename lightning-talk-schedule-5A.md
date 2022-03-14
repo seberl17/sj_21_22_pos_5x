@@ -41,3 +41,4 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 21.03.2022 | Florian Auer | What is Markdown, why is it useful, and what cool things can you do with it? |
 | 21.03.2022 | Daniel Lehner | Subreddits that every developer should follow |
 | 28.03.2022 | *blocked* | *3. PLF* |
+| 04.04.2022 | Stefan Eberl | What is Firebase and why is it important for mobile developers?
