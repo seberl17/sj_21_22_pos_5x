@@ -40,4 +40,6 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 14.03.2022 | Vasilije Maglov | Cool IoT devices every developer should know about |
 | 21.03.2022 | Florian Auer | What is Markdown, why is it useful, and what cool things can you do with it? |
 | 21.03.2022 | Daniel Lehner | Subreddits that every developer should follow |
+| 21.03.2022 | Thomas Wahlmüller | What every developer should know about the Datenschutzgrundverordnung |
 | 28.03.2022 | *blocked* | *3. PLF* |
+
